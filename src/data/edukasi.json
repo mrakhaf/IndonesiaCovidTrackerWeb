@@ -1,0 +1,27 @@
+{
+  "data": [{
+    "judulEdukasi": "Tidak Mudik",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/tidak-mudik",
+    "gambarEdukasi": "/src/img/mudik.png"
+  }, {
+    "judulEdukasi": "Dilarang Berdekatan dan Dilarang Berkumpul",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/ketahui-dilarang-berdekatan-dan-dilarang-berkumpul",
+    "gambarEdukasi": "/src/img/dekat.jpg"
+  }, {
+    "judulEdukasi": "Tingkatkan Kekebalan Tubuh, Kurangi Risiko COVID-19",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/ketahui-tingkatkan-kekebalan-tubuh-kurangi-risiko-covid-19",
+    "gambarEdukasi": "/src/img/vc.jpg"
+  }, {
+    "judulEdukasi": "Ada Info Masker Kain",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/ketahui-ada-info-masker-kain",
+    "gambarEdukasi": "/src/img/masker.jpg"
+  }, {
+    "judulEdukasi": "Ketahui: Data Terbaru Menunjukkan Kebanyakan Warga tidak Berencana Mudik Tahun Ini",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/ketahui-data-terbaru-menunjukkan-kebanyakan-warga-tidak-berencana-mudik-tahun-ini",
+    "gambarEdukasi": "/src/img/dataTidakMudik.jpeg"
+  }, {
+    "judulEdukasi": "Ketahui: Stigma, efek samping COVID-19",
+    "alamatEdukasi": "https://covid19.go.id/edukasi/apa-yang-harus-kamu-ketahui-tentang-covid-19/ketahui-stigma-efek-samping-covid-19",
+    "gambarEdukasi": "/src/img/efekSamping.jpeg"
+  }]
+}

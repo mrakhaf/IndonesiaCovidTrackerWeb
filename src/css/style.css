@@ -1,0 +1,196 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url(./Gilroy-Regular.woff) format(woff);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy', sans-serif;
+}
+
+body {
+    width: 100%;
+}
+
+
+.container-provinsi {
+    padding: 20px;
+}
+
+/* -------- BG IMAGE -------- */
+.stats {
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url('../img/bg.jpg');
+    background-size: cover;
+    padding-top: 50px;
+}
+
+/* -------- LATEST REPORT -------- */
+.latest-report {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+    color: #FFF;
+}
+
+.country,
+.total-cases,
+.recovered,
+.deaths,
+.treated {
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.name {
+    font-size: 2.2em;
+    color: white;
+    font-weight: bold;
+    margin: auto;
+}
+
+.indonesia-flag {
+    width: 40px;
+    background-color: #009688;
+    margin: auto;
+    border: grey solid 2px;
+}
+
+.flag-white {
+    background-color: white;
+    width: 100%;
+    height: 10px;
+}
+
+.flag-red {
+    background-color: red;
+    width: 100%;
+    height: 10px;
+}
+
+.title {
+    font-size: 1.3em;
+}
+
+.total-cases .value {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.treated .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: yellow;
+}
+
+.recovered .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #009688;
+}
+
+.deaths .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #f44336;
+}
+
+
+.new-value {
+    font-size: 1.3em;
+}
+
+/* -------- CHART -------- */
+.chart {
+    width: 80%;
+    height: 75vh;
+    min-height: 500px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.slider {
+    border-radius: 10px;
+}
+
+.slider-content {
+    border-radius: 30px;
+}
+
+
+.positif-provinsi .value {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.dirawat-provinsi .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: yellow;
+}
+
+.sembuh-provinsi .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #009688;
+}
+
+.meninggal-provinsi .value {
+    font-size: 2em;
+    font-weight: bold;
+    color: #f44336;
+}
+
+
+/* EDUKASI */
+.content-edukasi {
+    padding: 5%
+}
+
+.card-edukasi {
+    max-width: 400px;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .latest-report {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .total-cases,
+    .recovered,
+    .deaths,
+    .treated {
+        width: 40%;
+        height: 120px;
+        background-color: grey;
+        padding: 7px;
+        padding-left: 10px;
+        border-radius: 5px;
+    }
+
+
+}
+
+.bg {
+    background-color: #4d0000;
+}
+
+.white {
+    color: antiquewhite;
+}
+
+.pink {
+    background-color: #ffcccc;
+}
+
+.edukasi,
+.berita {
+    margin-top: -32px;
+}

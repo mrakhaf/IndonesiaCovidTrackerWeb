@@ -1,0 +1,68 @@
+{
+  "data": [{
+    "judulBerita": "Berita Pasien Sembuh Virus Corona Hari Ini.",
+    "alamatBerita": "https://www.liputan6.com/tag/pasien-sembuh-virus-corona",
+    "gambarberita": "/src/img/berita1.jpg",
+    "sumber": "Liputan6.com"
+  }, {
+    "judulBerita": "Top 3 Tekno Berita Hari Ini : Obat Virus Corona dari Korea.",
+    "alamatBerita": "https://tekno.tempo.co/read/1352116/top-3-tekno-berita-hari-ini-obat-virus-corona-dari-korea",
+    "gambarberita": "/src/img/berita2.jpg",
+    "sumber": "Tekno Tempo.co"
+  }, {
+    "judulBerita": "Pemprov Jateng Kembali Mengonfirmasi Kasus Baru Positif Covid-19.",
+    "alamatBerita": "https://jatengprov.go.id/publik/pemprov-jateng-kembali-mengonfirmasi-kasus-baru-positif-covid-19",
+    "gambarberita": "/src/img/berita3.jpg",
+    "sumber": "jatengprov.go.id"
+  }, {
+    "judulBerita": "Tiga Gejala Baru Virus Corona.",
+    "alamatBerita": "https://www.kompas.com/tren/read/2020/06/27/161500965/infografik--tiga-gejala-baru-covid-19",
+    "gambarberita": "/src/img/berita4.jpg",
+    "sumber": "kompas.com"
+  }, {
+    "judulBerita": "Bupati Kabupaten Blora Minta OPD Terkait Bisa Menjalankan Instruksi Presiden Untuk Tekan Pasien Covid-19",
+    "alamatBerita": "https://www.blorakab.go.id/index.php/public/berita/detail/2019/bupati-minta-opd-terkait-bisa-menjalankan-instruksi-presiden--untuk-tekan-pasien-positif-covid-19",
+    "gambarberita": "/src/img/berita6.jpg",
+    "sumber": "blorakab.go.id"
+  }, {
+    "judulBerita": "RSUD Kota Tangerang Sepenuhnya Layani Pasien Covid-19.",
+    "alamatBerita": "https://www.tangerangkota.go.id/berita-kota/hari-ini-rsud-kota-tangerang-sepenuhnya-layani-pasien-covid-19",
+    "gambarberita": "/src/img/berita7.jpg",
+    "sumber": "tangerangkota.go.id"
+  }, {
+    "judulBerita": "Update Link Pantauan Perkembangan Covid-19 di 30 Provinsi di Indonesia.",
+    "alamatBerita": "https://www.kompas.com/tren/read/2020/04/15/172300865/update-link-pantauan-perkembangan-covid-19-di-30-provinsi-di-indonesia",
+    "gambarberita": "/src/img/berita8.jpg",
+    "sumber": "kompas.com"
+  }, {
+    "judulBerita": "Corona di Indonesia, Malaysia, dan Cina.",
+    "alamatBerita": "https://tekno.tempo.co/read/1325810/top-3-tekno-berita-hari-ini-corona-di-indonesia-malaysia-cina",
+    "gambarberita": "/src/img/berita9.jpg",
+    "sumber": "tekno.tempo.co"
+  }, {
+    "judulBerita": "Update Penambahan Kasus COVID-19, Positif 1.624, Meninggal 53 dan Sembuh 1.072 Orang.",
+    "alamatBerita": "https://covid19.go.id/p/berita/update-penambahan-kasus-covid-19-positif-1624-meninggal-53-dan-sembuh-1072-orang",
+    "gambarberita": "/src/img/berita10.jpg",
+    "sumber": "covid19.go.id"
+  }, {
+    "judulBerita": "Polisi Ingatkan Penyebar Hoax Corona: Jangan Resahkan Masyarakat.",
+    "alamatBerita": "https://dialeksis.com/nasional/polisi-ingatkan-penyebar-hoax-corona-jangan-resahkan-masyarakat",
+    "gambarberita": "/src/img/berita11.jpg",
+    "sumber": "dialeksis.com"
+  }, {
+    "judulBerita": "UPDATE Sebaran Covid-19 di Indonesia, Ada 1.385 Kasus Baru, Berapa di Jawa Barat?.",
+    "alamatBerita": "https://jabar.tribunnews.com/2020/06/28/update-sebaran-covid-19-di-indonesia-ada-1385-kasus-baru-berapa-di-jawa-barat",
+    "gambarberita": "/src/img/berita12.jpg",
+    "sumber": "jabar.tribunnews.com"
+  }, {
+    "judulBerita": "Kumpulan Berita Pasien Corona Berbohong dan Sebabkan Tenaga Medis Tertular di Berbagai Daerah.",
+    "alamatBerita": "https://banyumas.tribunnews.com/2020/04/18/kumpulan-berita-pasien-corona-berbohong-dan-sebabkan-tenaga-medis-tertular-di-berbagai-daerah",
+    "gambarberita": "/src/img/berita14.jpg",
+    "sumber": "banyumas.tribunnews.com"
+  }, {
+    "judulBerita": "Melihat kembali penyaluran bansos di berbagai daerah selama pandemi COVID-19.",
+    "alamatBerita": "https://elshinta.com/foto/491/melihat-kembali-penyaluran-bansos-di-berbagai-daerah-selama-pandemi-covid19",
+    "gambarberita": "/src/img/berita15.jpg",
+    "sumber": "elshinta.com"
+  }]
+}
